@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NEKI", "NEKI\NEKI.csproj", "{C58D4DD1-1BFF-4913-80A8-58497A6D1E19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C58D4DD1-1BFF-4913-80A8-58497A6D1E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58D4DD1-1BFF-4913-80A8-58497A6D1E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58D4DD1-1BFF-4913-80A8-58497A6D1E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58D4DD1-1BFF-4913-80A8-58497A6D1E19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19E3782C-9B50-43C5-9593-37AEDD20FB2E}
+	EndGlobalSection
+EndGlobal
