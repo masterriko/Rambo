@@ -1,5 +1,19 @@
 # ARCADE GAMES - RAMBO
 ---
+## WHAT DO YOU NEED TO RUN 
+- You need at least **net8.0**
+- Open code in **Visual Studio**
+---
+## HOW TO PLAY
+- First type your name and press **Enter**
+- Select difficulty and select **Enter**
+- Player can move up, down, left, right using **Arrow keys**
+- Shoot with **Spacebar**
+- All info are written on the **right side**
+- If you move into an enemy you die
+- When you die click **enter** to start again
+
+---
 RogueRambo is a top-down, turn-based tactical game, similar to Rogue (1980). You play as Rambo, who must fight his way through the terrorist base.
 
 The player can do the following during their turn:
